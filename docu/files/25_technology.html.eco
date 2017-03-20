@@ -1,0 +1,11 @@
+---
+title: 'Underlying Technology'
+---
+
+This video provides you with an overview of the technical aspects of YaaS.
+<br><br>
+<%- @partial('video-kaltura', {video_id:'1_5nzvi8l3'}) %>
+
+<br><br>
+You can also read more in <a href="https://devportal.yaas.io/tools/apibestpractices/index.html" >API Best Practices</a> document in the Dev Portal.
+<br><br>

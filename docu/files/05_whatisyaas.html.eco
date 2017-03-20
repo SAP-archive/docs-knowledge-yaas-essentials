@@ -1,0 +1,7 @@
+---
+title: 'What is YaaS?'
+---
+
+In this video, you will learn about the following topics: the YaaS Market, packages, subscriptions and the pricing model. By the end of this video, you’ll have an overview of the solutions built by SAP Hybris using the YaaS platform.
+<br><br>
+<%- @partial('video-kaltura', {video_id:'0_b5o0ei0n'}) %>

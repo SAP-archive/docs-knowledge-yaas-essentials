@@ -1,0 +1,9 @@
+---
+title: 'Where Can I Use YaaS?'
+---
+
+In this video, you will see how YaaS can be used by anyone, from individual developers, small and mid-size companies to even big corporations.
+<br><br>
+<%- @partial('video-kaltura', {video_id:'1_a8wsoktb'}) %>
+
+<br><br>

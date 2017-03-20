@@ -1,0 +1,11 @@
+---
+title: 'YaaS Journey'
+---
+
+In this video, you’ll take a look at a simple business case for YaaS.
+<br><br>
+<%- @partial('video-kaltura', {video_id:'0_gcd9fipt'}) %>
+
+<br><br>
+You can also read more in <a href="https://market.yaas.io/standard/all/Loyalty/4649b22a-563d-4af6-b775-024536231872" >Loyalty package</a> description in the YaaS Market.
+<br><br>

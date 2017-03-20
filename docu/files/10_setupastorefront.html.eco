@@ -1,0 +1,47 @@
+---
+title: 'Set up a Storefront in Less than an Hour'
+---
+
+In this video, you will see how to create a storefront, customize it, add products and categories to it, and enable payment and shipping methods.
+<br><br>
+<%- @partial('video-kaltura', {video_id:'0_3du1yxt2'}) %>
+
+<br><br>
+You can also read more in:
+<ul>
+  <li>
+    Working with Builder
+    <ul>
+      <li>
+        <a href="https://devportal.yaas.io/tools/builder/index.html" >Builder</a> document in the Dev Portal.
+      </li>
+      <li>
+        <a href="https://devportal.yaas.io/tools/builder/index.html#CreateanOrganization" >Create an Organization</a> section in the Dev Portal.
+      </li>
+      <li>
+        <a href="https://devportal.yaas.io/tools/builder/index.html#CreateProjects" >Create Projects</a> section in the Dev Portal.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/56283/storefront-template/" >Storefront Template</a> article.
+  </li>
+  <li>
+    <a href="/62638/commerce-as-a-service-guide/" >Commerce as a Service Guide</a> article.
+  </li>
+  <li>
+    Working with User roles:
+    <ul>
+      <li>
+        <a href="https://devportal.yaas.io/services/account/latest/index.html" >Account service</a> documentation in the Dev Portal.
+      </li>
+      <li>
+        <a href="https://devportal.yaas.io/services/account/latest/index.html#AddaUserRoleinanOrganization" >Add a User Role in an Organization</a> section in the Dev Portal.
+      </li>
+      <li>
+        <a href="https://devportal.yaas.io/services/account/latest/index.html#AddaUserRoleinaProject" >Add a User Role in a Project</a> section in the Dev Portal.
+      </li>
+    </ul>
+  </li>
+</ul>
+<br><br>
