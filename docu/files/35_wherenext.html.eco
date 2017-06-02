@@ -5,5 +5,28 @@ title: 'Where Do I Go Next?'
 <p>After finishing this online training, you might be wondering: "What's next?". &nbsp;This depends on who you are and what interests you have.</p>
 <p>For example, if you are a developer, you can explore the&nbsp;<a href="https://devportal.yaas.io/">Dev Portal</a>. You can try our&nbsp;<a href="https://devportal.yaas.io/gettingstarted/">Getting Started Guides</a>. If you are interested in a particular solution, such as&nbsp;SAP Hybris Profile, the&nbsp;<a href="https://devportal.yaas.io/solutions/">Solutions</a>&nbsp;section of the DevPortal is what you are looking for. Finally, if you prefer reading documentation, have a look at the&nbsp;<a href="https://devportal.yaas.io/services/">API Docs</a>&nbsp;section where every service published on the YaaS Market is thoroughly documented. Most documents include tutorials, so you can try out the service as you read through the documentation.</p>
 <p>If you are not a developer, then the&nbsp;<a href="https://knowledge.yaas.io/">Knowledge Hub</a>&nbsp;is the right place for you. As you have already seen in this section, the training provides you with free online training on various YaaS topics.&nbsp;We provide you with the&nbsp;guides that help you configure and use your packages efficiently. Also,&nbsp;you can get recommendations, examples of common pitfalls and best approaches, news, and more.</p>
-<p>Finally, if you are interested in using YaaS to build on your&nbsp;existing SAP portfolio, you can use guides and articles in&nbsp;the Knowledge Hub or look on the DevPortal for the technical details.</p>
-<br><br>
+<p>If you are interested in using YaaS to build on your&nbsp;existing SAP portfolio, you can use guides and articles in&nbsp;the Knowledge Hub or look on the DevPortal for the technical details.</p>
+<p>Beside resources available on the Knowledge Hub and Dev Portal, you might be interested in the training offerings from SAP Hybris Education:</p>
+<ul>
+  <li> For developers, SAP Hybris Education offers <a href="https://training.sap.com/shop/course/hy950-sap-hybris-as-a-service-yaas-developer-classroom-002-g-en/">
+        <span style="color: rgb(51,153,102);">SAP Hybris as a Service Developer</span>
+      </a>
+    </span>
+    <span style="color: rgb(51,153,102);"> classroom training. This training is designed for Java J2EE developers and consists of 20% lectures and 80% hands-on exercises. In this training course, participants will learn how to develop a microservice and a package using YaaS SDK.</span>
+  </li>
+  <li>
+    <span style="color: rgb(51,153,102);">For Solution Architect, there is SAP Hybris Solution Architect: SAP Hybris Commerce and YaaS Online training. <span>This training is designed to provide participants with a thorough understanding of how to connect applications in the SAP Hybris Portfolio to share data and services. The focus of this training is on integrating a front office architecture consisting of the SAP Hybris Commerce Electronics storefront and SAP Hybris Loyalty. This course provides a high-level introduction to the functionality and technical background of SAP Hybris Commerce, SAP Hybris Data Hub and SAP Hybris Loyalty.</span>
+    </span>
+  </li>
+  <li>
+    <span style="color: rgb(51,153,102);">
+      <span>For decision makers, functional </span>
+    </span>
+    <span style="color: rgb(51,153,102);">analysts and leads, SAP Hybris Education offered free of charge SAP Hybris profile Essentials training. <span>The course introduces you to the features and business benefits of SAP Hybris Profile by taking you through the customer profile's journey: how SAP Hybris Profile creates, enriches, maintains and updates a customer profile. </span>
+      <span>You can watch the demos that present available SAP Hybris Profile integrations with other SAP Hybris solutions. </span>
+    </span>
+  </li>
+</ul>
+<p>
+  <br/>
+</p>
