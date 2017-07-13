@@ -3,6 +3,10 @@ title: 'Set up a Storefront in Less than an Hour'
 ---
 
 In this video, you will see how to create a storefront, customize it, add products and categories to it, and enable payment and shipping methods.
+
+<p><strong>Important notice:</strong>&nbsp;This video showcases the functionality to create storefront using the default storefront template without deployment:&nbsp;<a href="http://shop.yaas.io/%7Bproject_id" rel="nofollow">shop.yaas.io/{project_id</a>}. This approach has been depreciated. You can still easily create storefront, following guidelines available&nbsp;<a href="https://github.com/SAP/yaas-storefront/blob/master/Readme.md" rel="nofollow">here</a>.&nbsp;</p>
+<p>The remaining functionality remains accurate. SAP Hybris Education works on updating materials. We apologize for any incontinence caused.&nbsp;</p>
+
 <br><br>
 <%- @partial('video-kaltura', {video_id:'0_3du1yxt2'}) %>
 
