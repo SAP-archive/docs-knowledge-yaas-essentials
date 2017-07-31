@@ -8,6 +8,8 @@ In this video, you will see how to create a storefront, customize it, add produc
 <p>The remaining functionality remains accurate. SAP Hybris Education works on updating materials. We apologize for any inconvenience caused.&nbsp;</p>
 
 <br><br>
+<b>Important notice:</b> This video showcases the functionality to create storefront using the default storefront template without deployment: shop.yaas.io/{project_id}. This approach has been depreciated. You can still easily create storefront, following guidelines available <a href=" https://github.com/SAP/yaas-storefront/blob/master/Readme.md" >here </a>. 
+The remaining functionality remains accurate. <br>SAP Hybris Education works on updating the video. We apologize for any incontinence caused. <br><br>
 <%- @partial('video-kaltura', {video_id:'0_3du1yxt2'}) %>
 
 <br><br>
